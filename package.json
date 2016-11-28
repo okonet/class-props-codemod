@@ -21,6 +21,6 @@
   "dependencies": {},
   "devDependencies": {
     "jscodeshift": "^0.3.12",
-    "tap": "^5.1.1"
+    "tap": "^8.0.1"
   }
 }
